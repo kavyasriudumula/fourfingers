@@ -1,0 +1,16 @@
+{
+    "name":"calci12",
+    "version":"0.0.1",
+    "main":"cal",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/kavyasriudumula/calci12"
+    },
+   "keywords": [
+    "cal","calci12"
+   ],
+   "dependencies":{},
+   "engines": {
+    "node":"*"
+   }
+}
